@@ -1,28 +1,40 @@
-name: DrifterLens
 favicon: null
-layout_spectrum: 0.6343196437228471
-typography_spectrum: 0.7880699511151761
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: DrifterLens
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.31354700145311654
-  lightness: 0.49224944855086505
-  saturation: 0.9449054028373212
-  rhythmicContrast: 0.30431933142244816
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.6344086
+  brandStrength: 0.6451613
+  lightness: 0.7473118
+  brandColors:
+    - '#20150D'
+    - '#FFFFFF'
+    - '#887876'
+    - '#CFBDBD'
+    - '#030190'
+  rhythmicContrast: 0.4014337
+typography_spectrum: 0.4408602
+layout_spectrum: 0.4928315
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
