@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DrifterLens]]></title>
+        <description><![CDATA[DrifterLens]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 12 Feb 2016 18:17:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Opening Entry]]></title>
+            <description><![CDATA[<article><h1>Opening Entry</h1><p>The creation of this site comes at a perilous and uncertain time in human history. There is much potential co-existing with great injustice and atrocity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/931cd09daa4f6f6c6c7606921ee90568897dea73.png"></article>]]></description>
+            <link>undefinedopening-entry/index.html</link>
+            <guid isPermaLink="false">a1761c61-84e8-4f81-91c0-aaee02d74ec1</guid>
+            <pubDate>Fri, 12 Feb 2016 18:16:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
