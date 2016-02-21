@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: 'DrifterLens, February 12, 2016'
-datePublished: '2016-02-12T18:16:36.017Z'
-dateModified: '2016-02-12T18:16:21.542Z'
+datePublished: '2016-02-21T20:18:21.644Z'
+dateModified: '2016-02-21T20:10:50.986Z'
 title: Opening Entry
 author: []
+sourcePath: _posts/2016-02-12-opening-entry.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-12-opening-entry.md
-published: true
-url: opening-entry/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd41f9d1-f78e-46da-a8dc-a940962b9da4.png)
