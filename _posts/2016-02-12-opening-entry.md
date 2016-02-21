@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: 'DrifterLens, February 12, 2016'
-datePublished: '2016-02-21T20:18:21.644Z'
-dateModified: '2016-02-21T20:10:50.986Z'
+datePublished: '2016-02-21T21:54:34.586Z'
+dateModified: '2016-02-21T21:53:58.857Z'
 title: Opening Entry
 author: []
 sourcePath: _posts/2016-02-12-opening-entry.md
@@ -19,6 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+url: opening-entry/index.html
 _type: Blurb
 
 ---
