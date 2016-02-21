@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'DrifterLens, February 12, 2016'
-datePublished: '2016-02-21T21:54:34.586Z'
-dateModified: '2016-02-21T21:53:58.857Z'
+datePublished: '2016-02-21T21:57:16.806Z'
+dateModified: '2016-02-21T21:57:16.623Z'
 title: Opening Entry
 author: []
 sourcePath: _posts/2016-02-12-opening-entry.md
