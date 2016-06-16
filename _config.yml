@@ -1,9 +1,7 @@
-favicon: null
 name: DrifterLens
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.4928315
+typography_spectrum: 0.4408602
 collections:
   - index:
       path: /
@@ -16,25 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: DrifterLens – Also on Flipboard
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6344086
-  brandStrength: 0.6451613
-  lightness: 0.7473118
   brandColors:
     - '#20150D'
     - '#FFFFFF'
     - '#887876'
     - '#CFBDBD'
     - '#030190'
+  brandStrength: 0.6451613
+  lightness: 0.7473118
+  saturation: 0.6344086
   rhythmicContrast: 0.4014337
-typography_spectrum: 0.4408602
-layout_spectrum: 0.4928315
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+purpose: []
