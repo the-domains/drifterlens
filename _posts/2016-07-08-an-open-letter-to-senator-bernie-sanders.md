@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'July 8, 2016'
-datePublished: '2016-07-08T17:36:47.586Z'
-dateModified: '2016-07-08T17:36:33.162Z'
+datePublished: '2016-07-08T17:40:56.702Z'
+dateModified: '2016-07-08T17:39:52.783Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-08-an-open-letter-to-senator-bernie-sanders.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-08-an-open-letter-to-senator-bernie-sanders.md
 url: an-open-letter-to-senator-bernie-sanders/index.html
 _type: Article
 
