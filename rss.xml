@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[DrifterLens]]></title>
-        <description><![CDATA[DrifterLens]]></description>
+        <title><![CDATA[DrifterLens – Also on Flipboard]]></title>
+        <description><![CDATA[DrifterLens – Also on Flipboard]]></description>
         <link>https://thegrid.ai/drifterlens/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 23:07:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 17:38:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/drifterlens/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[An Open Letter to Senator Bernie Sanders]]></title>
+            <description><![CDATA[<p>July 8, 2016</p>]]></description>
+            <link>https://thegrid.ai/drifterlens/an-open-letter-to-senator-bernie-sanders/index.html</link>
+            <guid isPermaLink="false">946b189f-b0cc-4d87-a3b9-0fff9c724f7e</guid>
+            <pubDate>Fri, 08 Jul 2016 17:36:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Editorial #1]]></title>
-            <description><![CDATA[<article><h1>Editorial #1</h1><p>What baffles me is that the outgoing active generation, the Boomers, largely made this surrender without incident, accepting it as "just what you do." How many talents went unnurtured, neglected to wither away on the sidelines of a blind and indifferent society?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/89bb6add5cb41d8871967d849ea375dbfa801be2.png"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/209cd03b-48c2-4e95-b966-e4682ae3a0d1.png">]]></description>
             <link>https://thegrid.ai/drifterlens/editorial-1/index.html</link>
             <guid isPermaLink="false">69a86333-d50b-43ed-a22c-3387fff2d220</guid>
             <pubDate>Wed, 24 Feb 2016 22:47:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Opening Entry]]></title>
-            <description><![CDATA[<article><h1>Opening Entry</h1><p>The creation of this site comes at a perilous and uncertain time in human history. There is much potential co-existing with great injustice and atrocity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9e2b26a0b16418b9ea8824fb4fc7cdda3cd424a.png"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd41f9d1-f78e-46da-a8dc-a940962b9da4.png">]]></description>
             <link>https://thegrid.ai/drifterlens/opening-entry/index.html</link>
             <guid isPermaLink="false">a1761c61-84e8-4f81-91c0-aaee02d74ec1</guid>
             <pubDate>Sun, 21 Feb 2016 23:43:19 GMT</pubDate>
