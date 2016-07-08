@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'July 8, 2016'
-datePublished: '2016-07-08T17:40:56.702Z'
-dateModified: '2016-07-08T17:39:52.783Z'
+datePublished: '2016-07-08T17:49:13.507Z'
+dateModified: '2016-07-08T17:41:06.215Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-08-an-open-letter-to-senator-bernie-sanders.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: an-open-letter-to-senator-bernie-sanders/index.html
 _type: Article
 
@@ -38,7 +38,6 @@ Neither will internal party reform. The Democratic apple is rotting. We need a n
 I know you are genuine in your convictions; please, while there is still time. Join Dr. Stein; neither Secretary Clinton nor (especially) Donald Trump will move us beyond the status quo. We don't want slow, incremental change. We want to join the rest of the industrialized world as an innovative, environmentally responsible, peaceful, democratic and celebrated union of peoples and new ideas for this emerging twenty-first century.
 
 Sincerely, a concerned citizen,
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a326e4a4-ee0c-4438-bbb8-1bc2386bd0fe.png)
 
 Michael J Dentico
