@@ -3,25 +3,29 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: 'DrifterLens, February 12, 2016'
-datePublished: '2016-02-21T23:43:19.933Z'
-dateModified: '2016-02-21T23:43:02.707Z'
-title: Opening Entry
+description: >-
+  The creation of this site comes at a perilous and uncertain time in human
+  history. There is much potential co-existing with great injustice and
+  atrocity.
+datePublished: '2016-07-29T18:35:45.470Z'
+dateModified: '2016-07-29T18:32:34.247Z'
+title: ''
 author: []
 sourcePath: _posts/2016-02-12-opening-entry.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+via: {}
+starred: false
 url: opening-entry/index.html
 _type: Article
 
 ---
+# Opening Entry
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd41f9d1-f78e-46da-a8dc-a940962b9da4.png)
 
 The creation of this site comes at a perilous and uncertain time in human history. There is much potential co-existing with great injustice and atrocity.
