@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Senator Sanders, '
-datePublished: '2016-07-29T18:30:35.444Z'
-dateModified: '2016-07-29T18:30:30.831Z'
+description: 'Senator Sanders,'
+datePublished: '2016-07-29T19:08:15.518Z'
+dateModified: '2016-07-29T18:39:39.300Z'
 title: An Open Letter to Senator Bernie Sanders
 author: []
 sourcePath: _posts/2016-07-08-an-open-letter-to-senator-bernie-sanders.md
