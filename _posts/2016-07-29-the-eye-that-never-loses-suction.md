@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'It cleans by itself, so you don’t have to.'
-datePublished: '2016-07-29T16:35:47.745Z'
-dateModified: '2016-07-29T16:35:34.169Z'
+datePublished: '2016-07-29T16:39:04.150Z'
+dateModified: '2016-07-29T16:35:57.023Z'
 title: ''
 author: []
 via: {}
