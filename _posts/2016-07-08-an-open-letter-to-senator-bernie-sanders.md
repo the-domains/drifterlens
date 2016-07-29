@@ -4,10 +4,10 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Senator Sanders,'
-datePublished: '2016-07-29T18:29:19.504Z'
-dateModified: '2016-07-29T18:29:09.121Z'
-title: ''
+description: 'Senator Sanders, '
+datePublished: '2016-07-29T18:30:35.444Z'
+dateModified: '2016-07-29T18:30:30.831Z'
+title: An Open Letter to Senator Bernie Sanders
 author: []
 sourcePath: _posts/2016-07-08-an-open-letter-to-senator-bernie-sanders.md
 via: {}
@@ -22,6 +22,10 @@ url: an-open-letter-to-senator-bernie-sanders/index.html
 _type: Article
 
 ---
+# An Open Letter to Senator Bernie Sanders
+
+## July 8, 2016
+
 Senator Sanders,
 
 I wanted to take the time to write this brief letter to advocate what so many of your supporters already have: Please join Dr. Jill Stein and accept her invitation to run for president on this election's Green Party ticket.
