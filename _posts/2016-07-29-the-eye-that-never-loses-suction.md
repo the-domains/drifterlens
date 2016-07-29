@@ -1,18 +1,22 @@
 ---
-description: 'It cleans by itself, so you don’t have to.'
-datePublished: '2016-07-29T18:09:30.983Z'
+inFeed: false
+hasPage: true
 inNav: true
 inLanguage: null
+keywords: []
+description: 'It cleans by itself, so you don’t have to.'
+datePublished: '2016-07-29T18:17:24.773Z'
+dateModified: '2016-07-29T18:17:24.537Z'
 author: []
 via: {}
-hasPage: true
 sourcePath: _posts/2016-07-29-the-eye-that-never-loses-suction.md
-authors: []
 title: The Eye that Never Loses Suction
-publisher: {}
-keywords: []
-dateModified: '2016-07-29T18:02:35.418Z'
-inFeed: false
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: true
 url: the-eye-that-never-loses-suction/index.html
 _type: WebPage
