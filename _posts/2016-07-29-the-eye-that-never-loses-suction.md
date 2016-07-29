@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: 'It cleans by itself, so you don’t have to.'
-datePublished: '2016-07-29T18:35:02.441Z'
-dateModified: '2016-07-29T18:31:42.769Z'
+datePublished: '2016-07-29T18:37:36.865Z'
+dateModified: '2016-07-29T18:37:13.224Z'
 author:
   - name: ''
     url: ''
@@ -21,7 +21,7 @@ publisher:
   favicon: null
 starred: true
 url: the-eye-that-never-loses-suction/index.html
-_type: WebPage
+_type: Article
 
 ---
 # The Eye that Never Loses Suction
