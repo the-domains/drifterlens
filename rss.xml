@@ -4,8 +4,22 @@
         <description><![CDATA[DrifterLens – Also on Flipboard]]></description>
         <link>https://thegrid.ai/drifterlens/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 18:35:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 18:37:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/drifterlens/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Eye that Never Loses Suction]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/88299089-6b8b-4ec1-a435-71f78df91255.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/drifterlens/the-eye-that-never-loses-suction/index.html</link>
+            <guid isPermaLink="false">6811b6d5-1303-4fef-81e6-1f35bc8d963e</guid>
+            <pubDate>Fri, 29 Jul 2016 18:37:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opening Entry]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd41f9d1-f78e-46da-a8dc-a940962b9da4.png">]]></description>
+            <link>https://thegrid.ai/drifterlens/opening-entry/index.html</link>
+            <guid isPermaLink="false">a1761c61-84e8-4f81-91c0-aaee02d74ec1</guid>
+            <pubDate>Fri, 29 Jul 2016 18:35:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Editorial #1]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/209cd03b-48c2-4e95-b966-e4682ae3a0d1.png">]]></description>
@@ -19,13 +33,6 @@
             <link>https://thegrid.ai/drifterlens/an-open-letter-to-senator-bernie-sanders/index.html</link>
             <guid isPermaLink="false">946b189f-b0cc-4d87-a3b9-0fff9c724f7e</guid>
             <pubDate>Fri, 29 Jul 2016 18:30:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Opening Entry]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd41f9d1-f78e-46da-a8dc-a940962b9da4.png">]]></description>
-            <link>https://thegrid.ai/drifterlens/opening-entry/index.html</link>
-            <guid isPermaLink="false">a1761c61-84e8-4f81-91c0-aaee02d74ec1</guid>
-            <pubDate>Sun, 21 Feb 2016 23:43:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
