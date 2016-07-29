@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'It cleans by itself, so you don’t have to.'
-datePublished: '2016-07-29T18:37:36.865Z'
-dateModified: '2016-07-29T18:37:13.224Z'
+datePublished: '2016-07-29T18:40:16.023Z'
+dateModified: '2016-07-29T18:40:02.373Z'
 author:
   - name: ''
     url: ''
@@ -19,7 +19,7 @@ publisher:
   domain: null
   url: ''
   favicon: null
-starred: true
+starred: false
 url: the-eye-that-never-loses-suction/index.html
 _type: Article
 
