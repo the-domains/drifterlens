@@ -1,21 +1,21 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'It cleans by itself, so you don’t have to.'
-datePublished: '2016-07-29T16:31:41.274Z'
-dateModified: '2016-07-29T16:31:08.175Z'
+datePublished: '2016-07-29T16:35:47.745Z'
+dateModified: '2016-07-29T16:35:34.169Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-07-29-the-eye-that-never-loses-suction.md
 authors: []
 publisher: {}
-starred: false
-sourcePath: _posts/2016-07-29-the-eye-that-never-loses-suction.md
+starred: true
 url: the-eye-that-never-loses-suction/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08112444-b43b-4ae2-a57e-23d1df354330.png)
@@ -30,10 +30,7 @@ The concept isn't new; iRobot's Roomba has been a household name for years. The 
 
 With its dome-shaped, live-vision 360° camera, Dyson's new machine captures a panoramic image of the room being cleaned; when coupled with the SLAM (Simultaneous Localization and Mapping) software chip, landmark-based navigation is achieved. The 360 Eye locks onto landmarks in the room to triangulate its position, ensuring a strategic cleaning pattern is devised and the unit knows which parts of the room it has already covered. Scheduling cleaning routines takes place via smartphone app.
 
-It is also the only robotic vacuum with full tank tracks,
-which allows it to surmount household obstacles under 15mm in height. Similar
-to Roomba, the 360 Eye has drop detect sensors on its underside which prevent your
-thousand-dollar investment from taking a tumble down the stairs.
+It is also the only robotic vacuum with full tank tracks, which allows it to surmount household obstacles under 15mm in height. Similar to Roomba, the 360 Eye has drop detect sensors on its underside which prevent your thousand-dollar investment from taking a tumble down the stairs.
 
 When it comes to its signature suction, the unit is equipped with the high-speed digital motor V2 which spins at a staggering 78,000 rpm, paired with Dyson's trademarked Radial Root Cyclone, which the firm claims to be its most compact cyclone technology yet. Advanced air filtration ensures that the air expelled by the unit is cleaner than what went in.
 
