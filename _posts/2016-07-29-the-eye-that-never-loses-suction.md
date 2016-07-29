@@ -5,24 +5,29 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'It cleans by itself, so you don’t have to.'
-datePublished: '2016-07-29T18:17:24.773Z'
-dateModified: '2016-07-29T18:17:24.537Z'
-author: []
+datePublished: '2016-07-29T18:35:02.441Z'
+dateModified: '2016-07-29T18:31:42.769Z'
+author:
+  - name: ''
+    url: ''
 via: {}
 sourcePath: _posts/2016-07-29-the-eye-that-never-loses-suction.md
-title: The Eye that Never Loses Suction
+title: ''
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: true
 url: the-eye-that-never-loses-suction/index.html
 _type: WebPage
 
 ---
-![Meet the Dyson 360 Eye.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88299089-6b8b-4ec1-a435-71f78df91255.jpg)
+# The Eye that Never Loses Suction
+
+by Michael J Dentico
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88299089-6b8b-4ec1-a435-71f78df91255.jpg)
 
 It cleans by itself, so you don't have to.
 
