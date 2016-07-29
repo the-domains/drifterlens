@@ -1,7 +1,7 @@
 name: DrifterLens
 favicon: null
-layout_spectrum: 0.4928315
-typography_spectrum: 0.4408602
+layout_spectrum: 1
+typography_spectrum: 0.48902
 collections:
   - index:
       path: /
@@ -34,7 +34,7 @@ color:
     - '#887876'
     - '#CFBDBD'
     - '#030190'
-  brandStrength: 0.6451613
+  brandStrength: 0.5625
   lightness: 0.7473118
   saturation: 0.6344086
   rhythmicContrast: 0.4014337
